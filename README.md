@@ -4,11 +4,11 @@ in power BI and other tools
 ## Adventure Works Report
 This analysis features data from a fictitious company that sells Bikes and their components. The data set consists of sales from 
 2017 to 2022. It consists of four tables:
-# # # Products: 
+### Products: 
 This table holds information on the category, subcategory of products in addition to product name, standard cost and color.
-# # # Region: 
+### Region: 
 The Countries and Continents where Adventure Works has business.
-# # # Salesperson:
+### Salesperson:
 Information about the salesperson, their contact info and their job title.
-# # # Sales: 
+### Sales: 
 Orders with their date, sales amount, quantity, unit price, total cost, and references to the product and salesperson.
