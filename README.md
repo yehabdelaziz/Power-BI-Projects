@@ -1,7 +1,7 @@
 # Power-BI-Project
 Power BI is a powerful tool for data visualisations. I will use this repository to upload data analysis reports and dashboards
 in power BI and other tools
-# # Adventure Works Report
+## Adventure Works Report
 This analysis features data from a fictitious company that sells Bikes and their components. The data set consists of sales from 
 2017 to 2022. It consists of four tables:
 # # # Products: 
