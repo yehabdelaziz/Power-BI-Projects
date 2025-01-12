@@ -12,3 +12,5 @@ The Countries and Continents where Adventure Works has business.
 Information about the salesperson, their contact info and their job title.
 ### Sales: 
 Orders with their date, sales amount, quantity, unit price, total cost, and references to the product and salesperson.
+### Aim of the Report: 
+The target audience for this report is the CEOs. It is to determine the performance of the company in terms of sales and profit over the current year (2020). 
