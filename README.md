@@ -1,5 +1,3 @@
-# Let's create a README.md file with the content provided.
-readme_content = """
 # Power BI Business Analysis Projects  
 
 This repository showcases a collection of **Power BI dashboards and reports** that provide insights into business performance, sales, and operational metrics. Each project demonstrates my skills in **data cleaning, modeling, DAX calculations, and interactive dashboard design** to drive data-informed decisions.
